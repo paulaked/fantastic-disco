@@ -1,4 +1,6 @@
-class Fizzbuzz:
+z = "Milan was here 2021"
+print(z)
+
     def __init__(self, start_of_range, end_of_range):
         self.fizzrange = range(start_of_range, end_of_range)
         self.fizzbuzz_list = []
@@ -22,7 +24,14 @@ class Fizzbuzz:
             else:
                 self.fizzbuzz_list.append(num)
 
+print("Oscar was here")
 
+print('Hello everybody!')
+
+myles = Fizzbuzz(2, 10)
+theo = myles
+
+<<<<<<< HEAD
 x = 0
 l = []
 while x < 100:
@@ -32,3 +41,6 @@ while x < 100:
         l.insert(0, " ")
     print("".join(l))
     x += 1
+=======
+"Hey guys"
+>>>>>>> main

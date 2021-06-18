@@ -23,4 +23,4 @@ class Fizzbuzz:
             else:
                 self.fizzbuzz_list.append(num)
                 
-print("YOLO")
+life_universe_and_everything = 42

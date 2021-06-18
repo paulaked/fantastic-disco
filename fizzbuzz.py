@@ -37,4 +37,16 @@ print('Hello everybody!')
 myles = Fizzbuzz(2, 10)
 theo = myles
 
+<<<<<<< HEAD
+x = 0
+l = []
+while x < 100:
+
+    l.append("yo")
+    for i in range(0, x):
+        l.insert(0, " ")
+    print("".join(l))
+    x += 1
+=======
 "Hey guys"
+>>>>>>> main

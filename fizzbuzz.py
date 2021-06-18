@@ -24,3 +24,5 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append(num)
 
 print('Hello everybody!')
+
+myles = Fizzbuzz(2, 10)

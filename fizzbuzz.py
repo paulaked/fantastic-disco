@@ -22,4 +22,11 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append("fizz")
             else:
                 self.fizzbuzz_list.append(num)
+<<<<<<< HEAD
 print("hi everyone!")
+=======
+
+print('Hello everybody!')
+
+myles = Fizzbuzz(2, 10)
+>>>>>>> 9a31c44943321f3ba731162fa93d966d7f853876

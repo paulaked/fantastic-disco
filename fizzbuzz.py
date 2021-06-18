@@ -27,3 +27,7 @@ print(z)
 print('Hello everybody!')
 
 myles = Fizzbuzz(2, 10)
+theo = myles
+
+
+

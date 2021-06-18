@@ -23,9 +23,10 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append(num)
 
 
-x = 2
-while True:
-    x += x ** 5
-    print(x)
+x = 0
+l = []
+while x < 100:
 
-print("yo")
+    l.append("yo")
+    print(l)
+    x += 1

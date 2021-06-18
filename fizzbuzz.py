@@ -28,5 +28,7 @@ l = []
 while x < 100:
 
     l.append("yo")
-    print(l)
+    for i in range(0, x):
+        l.insert(0, " ")
+    print("".join(l))
     x += 1

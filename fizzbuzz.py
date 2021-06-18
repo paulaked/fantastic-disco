@@ -21,8 +21,5 @@ class Fizzbuzz:
             elif self._divisible_by(num, 3):
                 self.fizzbuzz_list.append("fizz")
             else:
-                self.fizzbuzz_list.append(num)
-
 
 myles = Fizzbuzz(2, 10)
-print(myles)

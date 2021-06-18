@@ -1,4 +1,5 @@
-class Fizzbuzz:
+z = "Milan was here 2021"
+print(z)
 
     def __init__(self, start_of_range, end_of_range):
         self.fizzrange = range(start_of_range, end_of_range)
@@ -24,3 +25,10 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append(num)
 
 print("Oscar was here")
+
+print('Hello everybody!')
+
+myles = Fizzbuzz(2, 10)
+theo = myles
+
+

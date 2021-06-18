@@ -24,6 +24,7 @@ class Fizzbuzz:
 
 myles = Fizzbuzz(2, 10)
 theo = myles
+sam = "was here in 3000 B.C"
 
 
 

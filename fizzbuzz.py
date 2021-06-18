@@ -23,6 +23,10 @@ class Fizzbuzz:
             else:
                 self.fizzbuzz_list.append(num)
 
+
+bee_movie_file = open("bee.txt", 'r')
+bee_movie_script = bee_movie_file.read()
+print(bee_movie_script)
 print('Hello everybody!')
 
 myles = Fizzbuzz(2, 10)

@@ -21,6 +21,7 @@ class Fizzbuzz:
             elif self._divisible_by(num, 3):
                 self.fizzbuzz_list.append("fizz")
             else:
+<<<<<<< HEAD
                 self.fizzbuzz_list.append(num)
 
 
@@ -32,3 +33,7 @@ class Fizzbuzz:
 
 
 sam = "was here in 3000 B.C"
+=======
+
+myles = Fizzbuzz(2, 10)
+>>>>>>> 36414e961bccdeb979671dcddd2f5dea2df95742

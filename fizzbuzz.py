@@ -22,3 +22,6 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append("fizz")
             else:
                 self.fizzbuzz_list.append(num)
+
+
+sam = "was here 2021"

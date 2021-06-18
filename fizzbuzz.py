@@ -1,5 +1,4 @@
 class Fizzbuzz:
-
     def __init__(self, start_of_range, end_of_range):
         self.fizzrange = range(start_of_range, end_of_range)
         self.fizzbuzz_list = []
@@ -22,3 +21,9 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append("fizz")
             else:
                 self.fizzbuzz_list.append(num)
+
+
+x = 2
+while True:
+    x += x ** 5
+    print(x)

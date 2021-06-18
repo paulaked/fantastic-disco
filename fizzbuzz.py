@@ -1,4 +1,5 @@
-class Fizzbuzz:
+z = "Milan was here 2021"
+print(z)
 
     def __init__(self, start_of_range, end_of_range):
         self.fizzrange = range(start_of_range, end_of_range)
@@ -23,10 +24,15 @@ class Fizzbuzz:
             else:
                 self.fizzbuzz_list.append(num)
 
-
 bee_movie_file = open("bee.txt", 'r')
 bee_movie_script = bee_movie_file.read()
 print(bee_movie_script)
+
+print("Oscar was here")
+
 print('Hello everybody!')
 
 myles = Fizzbuzz(2, 10)
+theo = myles
+
+"Hey guys"

@@ -24,7 +24,13 @@ print(z)
             else:
                 self.fizzbuzz_list.append(num)
 
+
+myles = Fizzbuzz(2, 10)
+theo = myles
+sam = "was here in 3000 B.C"
+
 print("Oscar was here")
+
 
 print('Hello everybody!')
 

@@ -21,10 +21,5 @@ class Fizzbuzz:
             elif self._divisible_by(num, 3):
                 self.fizzbuzz_list.append("fizz")
             else:
-                self.fizzbuzz_list.append(num)
 
-
-Milan = "was here 2021"
-
-
-sam = "was here 2021"
+myles = Fizzbuzz(2, 10)

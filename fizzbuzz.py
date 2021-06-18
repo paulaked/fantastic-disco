@@ -24,4 +24,7 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append(num)
 
 
+Milan = "was here 2021"
+
+
 sam = "was here 2021"

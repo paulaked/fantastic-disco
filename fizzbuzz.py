@@ -22,4 +22,4 @@ class Fizzbuzz:
                 self.fizzbuzz_list.append("fizz")
             else:
 
-myles = Fizzbuzz(2, 10)
+"Hey guys"

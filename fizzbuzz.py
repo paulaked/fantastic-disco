@@ -11,14 +11,16 @@ class Fizzbuzz:
         else:
             return False
 
-    def _fizzbuzz_iterator(self):
+    def _fizzbuzz_iterator(self, sdrkjghdfg, sdjrkfghd):
 
         for num in self.fizzrange:
             if self._divisible_by(num, 15):
-                self.fizzbuzz_list.append("fizzbuzz")
+                self.fizzbuzz_list.append("Hello Paula")
             elif self._divisible_by(num, 5):
                 self.fizzbuzz_list.append("buzz")
             elif self._divisible_by(num, 3):
                 self.fizzbuzz_list.append("fizz")
             else:
                 self.fizzbuzz_list.append(num)
+
+shbdfgkdfbg

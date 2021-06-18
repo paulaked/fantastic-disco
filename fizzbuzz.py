@@ -24,10 +24,11 @@ print(z)
             else:
                 self.fizzbuzz_list.append(num)
 
+print("Oscar was here")
+
 print('Hello everybody!')
 
 myles = Fizzbuzz(2, 10)
 theo = myles
-
 
 
